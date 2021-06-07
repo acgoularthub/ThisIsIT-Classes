@@ -6,6 +6,6 @@ From [This is IT](https://www.thisisit.io) classes - Free tier.
  
 #### Python Folder
 
-* [Presentation page](pythonClasses/examplesWeek3.py)
+* [Presentation page](pythonClasses/presentation.md)
 
 * [Lesson week 3](pythonClasses/examplesWeek3.py)
